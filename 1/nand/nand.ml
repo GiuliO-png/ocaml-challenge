@@ -1,0 +1,1 @@
+let nan x y = not(x && y);;
